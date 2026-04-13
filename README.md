@@ -43,7 +43,6 @@
 ## 📊 GitHub Stats
 
 <!-- OPTIONAL: agar tu graph hide karna chahta hai to is section ko hata de -->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojhakumarakshay1&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ojhakumarakshay1&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
