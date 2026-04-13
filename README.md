@@ -16,11 +16,12 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Full Stack Developer
-- ⚡ Working with React, Next.js, Node.js, TypeScript
-- 🤖 Building AI-powered applications
-- 🧠 Love solving real-world problems
-- 📚 Always learning & improving
+- 🚀 Full Stack Engineer with a strong focus on scalable and production-grade systems  
+- ⚡ Expertise in React, Next.js, Node.js, TypeScript, PHP, and Python  
+- 🤖 Building AI-driven solutions (RAG, LLM integrations, FastAPI-based systems)  
+- 🧠 Love turning complex problems into simple, efficient solutions  
+- ⚙️ Interested in backend architecture, automation, and high-performance systems  
+- 📚 Always learning, experimenting, and pushing boundaries  
 
 ---
 
