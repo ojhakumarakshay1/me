@@ -40,6 +40,14 @@
 
 ---
 
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ojhakumarakshay1&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ## 📊 GitHub Stats
 
 <!-- OPTIONAL: agar tu graph hide karna chahta hai to is section ko hata de -->
